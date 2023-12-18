@@ -1,12 +1,21 @@
 # learn
 
-# Assignment
+## Assignment
 
 1. Basic theory
 
 - [ ] what is internet
+
+<details>
+    <summary>Internet</summary>
+    <div>
+      <div>
+      isghjklvh';ljfgj;l'jkfht;kl'fhj;'kjlhkjg
+      </div>
+    </div>
+</details>
 - [ ] what is Network
-    - [ ] list 5 funations of internet
+  - [ ] list 5 funations of internet
 - [ ] what is web
     - [ ] list the funations of HTML,Css and Javascrips  to web 
     - [ ] why is javacript is programming language not HTML and CSS
