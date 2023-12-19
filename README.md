@@ -26,7 +26,7 @@
     </div>
 </details>
 
-  - [ ] List 5 functions of internet
+  [ ] List 5 functions of internet
 
 <details>
     <summary>Funtions Of Internet</summary>
@@ -65,8 +65,8 @@
 
 
       Javascript- Used as programming language 
-      </div>
-    </div>
+   </div>
+  </div>
 </details>
 
     - [ ] why is javacript is programming language not HTML and CSS
@@ -94,8 +94,8 @@
       2- Web Developer 
 
       3- Game Developer 
-      </div>
-    </div>
+   </div>
+  </div>
 </details>
 
     - [ ] What is frontend and its Function in web development
@@ -121,8 +121,8 @@
       Backend is the program code that cannot be accessed by the user
 
       Functios are- 1. To make the website performs 2- Backend and Logic 
-      </div>
-    </div>
+   </div>
+  </div>
 </details>
 
 
