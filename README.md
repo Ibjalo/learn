@@ -18,7 +18,7 @@
 
 
 <details>
-    <summary>Internet</summary>
+    <summary>Network</summary>
     <div>
       <div>
       Network is the connection of computers
