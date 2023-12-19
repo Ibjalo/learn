@@ -15,6 +15,17 @@
     </div>
 </details>
 - [ ] what is Network
+
+
+<details>
+    <summary>Internet</summary>
+    <div>
+      <div>
+      Network is the connection of computers
+      </div>
+    </div>
+</details>
+
   - [ ] list 5 funations of internet
 - [ ] what is web
     - [ ] list the funations of HTML,Css and Javascrips  to web 
